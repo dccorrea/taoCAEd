@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE structures SYSTEM "../doc/structures.dtd">
+<structures>
+	<structure id="taoCAEd_main" name="CAEd TAO extension" level="15" group="main">
+		<description />
+		<sections>
+			<section id="taoCAEd_main" name="CAEd TAO extension" url="/taoCAEd/TaoCAEd/index" />
+			<section id="taoCAEd_other" name="Template" url="/taoCAEd/TaoCAEd/templateExample" />
+		</sections>
+	</structure>
+</structures>
